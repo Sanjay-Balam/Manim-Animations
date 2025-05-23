@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/1185818338_72280834_223132457.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_4217992463_3371213792.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_322652245_2116943919.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_4217992463_2085399354.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_2028406270_3408954394.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_2844360058_1563560128.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_723752332_1496847262.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_2844360058_3159425873.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_2170166614_1289435415.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_2844360058_3053059496.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_1275598116_2706899483.mp4'
+file 'file:/Users/balamsanjay/Desktop/Cursor-2D-Animation-project/manimations/media/videos/generated_manim/480p15/partial_movie_files/CosineWave/624642324_4217992463_90150494.mp4'
