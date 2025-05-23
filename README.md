@@ -1,4 +1,4 @@
-# Manimations: LLM-Powered Manim Script Generator
+# Manimations: Generate Math 2D-Animation Videos with single prompt
 
 This project allows you to generate advanced [Manim](https://www.manim.community/) animation scripts using natural language prompts, powered by the Gemini LLM API.
 
@@ -30,8 +30,6 @@ pip install -r requirements.txt
 
 Create a `.env` file in the `manimations` directory:
 
-
-
 ## Future Implementation
 
 - **One-Prompt, Full Video Generation:**  
@@ -46,10 +44,6 @@ Create a `.env` file in the `manimations` directory:
 - **Extensible and Modular:**  
   The platform will support additional animation types, voiceover integration, and more, making it a powerful tool for educators, students, and content creators.
 
-
-## License
-
-MIT
 
 ## References
 
