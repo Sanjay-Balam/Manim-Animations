@@ -56,6 +56,6 @@ MIT
 - [Manim Community](https://www.manim.community/)
 - [Google Gemini API](https://aistudio.google.com/app/apikey)
 
-## Example Output
+## Output of the above code
 
 ![Cosine Wave Animation](media/videos/generated_manim/480p15/CosineWave.gif)
